@@ -3,6 +3,7 @@ class Solution_58{
     // start from last of string. if space found before finding any character loop should continue.
     // if space found after finding a char then surely a word is found
     // program does work if there is no space meaning only one word is in the string
+    // solved without using any string built-in methods
     public int lengthOfLastWord(String s) {
         char[] sentence = s.toCharArray();
         int endPoint = sentence.length-1;
