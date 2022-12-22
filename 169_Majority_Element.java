@@ -1,6 +1,7 @@
-import java.lang.reflect.Array;
-import java.util.ArrayList;
 import java.util.Arrays;
+
+// Runtime 3 ms Beats 78.89%
+// Memory 45.8 MB Beats 92.85%
 
 class Solution_169{
     public int majorityElement(int[] nums) {

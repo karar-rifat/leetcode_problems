@@ -1,5 +1,5 @@
-//Runtime 41 ms Beats 9.44%
-//Memory 39.7 MB Beats 84.50%
+// Runtime 41 ms Beats 9.44%
+// Memory 39.7 MB Beats 84.50%
 
 class Solution_69{
     public int mySqrt(int x) {
