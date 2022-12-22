@@ -1,3 +1,6 @@
+// Runtime 1 ms Beats 100%
+// Memory 44.3 MB Beats 78.13%
+
 class Solution_026{
     public int removeDuplicates(int[] nums) {
         int setPosition = 1;

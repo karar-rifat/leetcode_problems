@@ -1,3 +1,6 @@
+// Runtime 5 ms Beats 29.11%
+// Memory 42.3 MB Beats 41.6%
+
 class Solution_14 {
     public String longestCommonPrefix(String[] strs) {
         String firstString = strs[0];

@@ -1,4 +1,5 @@
-import java.util.Arrays;
+// Runtime 0 ms Beats 100%
+// Memory 42.5 MB Beats 50.71%
 
 class Solution_27{
     public int removeElement(int[] nums, int val) {

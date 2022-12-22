@@ -1,3 +1,6 @@
+// Runtime 6 ms Beats 85.73%
+// Memory 45.9 MB Beats 41.75%
+
 class Solution_13 {
     public int romanToInt(String s){
         char[] romanSymbols =  {'I', 'V', 'X', 'L', 'C', 'D', 'M'};

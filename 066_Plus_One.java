@@ -1,3 +1,6 @@
+// Runtime 0 ms Beats 100%
+// Memory 41.1 MB Beats 74.81%
+
 class Solution_66{
     public int[] plusOne(int[] digits) {
         int endPoint = digits.length-1;

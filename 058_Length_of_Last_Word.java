@@ -1,3 +1,6 @@
+// Runtime 0 ms Beats 100%
+// Memory 42.6 MB Beats 21.78%
+
 class Solution_58{
 
     // start from last of string. if space found before finding any character loop should continue.

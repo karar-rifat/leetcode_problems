@@ -1,3 +1,6 @@
+// Runtime 395 ms Beats 5.1%
+// Memory 53.8 MB Beats 5.22%
+
 class Solution_9 {
     public boolean isPalindrome(int x) {
         int count = 0;

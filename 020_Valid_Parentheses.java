@@ -1,5 +1,8 @@
 import java.util.Stack;
 
+// Runtime 1 ms Beats 99.71%
+// Memory 40.2 MB Beats 92.33%
+
 class Solution_20{
     public boolean isValid(String s){
         char[] parentheses = s.toCharArray();
